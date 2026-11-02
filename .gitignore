@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.md.tmp
+report.md
+references_report.md
+claims_report.md
+package_report.md
+_whitelist.txt
+.DS_Store
